@@ -131,7 +131,7 @@ const playersInfo = [
     },
     {
         "id": 13,
-        "playerName": "Kieron Pollard",
+        "playerName": "Suryakumar Yadav",
         "from": "MI",
         "price": "11.50 Cr",
         "isPlaying": true,
